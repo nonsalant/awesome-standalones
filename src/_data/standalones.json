@@ -411,5 +411,11 @@
     "url": "https://slide-deck.netlify.app/",
     "script": "npm install @oddbird/slide-deck",
     "snippet": "<slide-deck><header><h1>This is a slide show</h1></header><div><h2>Each child is a slide</h2></div></slide-deck>"
+  },
+  {
+    "name": "lazy-modal",
+    "category": "extensions",
+    "repo": "https://github.com/nonsalant/lazy-modal",
+    "snippet": "<lazy-modal popover triggers='.my-trigger' inner-styles='../example.css' inner-scripts='../example.js' close-button><!-- HTML goes here --></lazy-modal>"
   }
 ]
