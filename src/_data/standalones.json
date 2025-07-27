@@ -411,5 +411,11 @@
     "url": "https://slide-deck.netlify.app/",
     "script": "npm install @oddbird/slide-deck",
     "snippet": "<slide-deck><header><h1>This is a slide show</h1></header><div><h2>Each child is a slide</h2></div></slide-deck>"
+  },
+  {
+    "name": "map-picker",
+    "category": "custom",
+    "repo": "https://github.com/nonsalant/map-picker",
+    "snippet": "<map-picker confirm='#confirm-location'></map-picker>"
   }
 ]
