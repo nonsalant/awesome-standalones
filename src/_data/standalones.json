@@ -411,5 +411,12 @@
     "url": "https://slide-deck.netlify.app/",
     "script": "npm install @oddbird/slide-deck",
     "snippet": "<slide-deck><header><h1>This is a slide show</h1></header><div><h2>Each child is a slide</h2></div></slide-deck>"
+  },
+  {
+    "name": "podcast-player",
+    "category": "media",
+    "repo": "https://github.com/nonsalant/fixed-podcast-player",
+    "url": "https://fixed-podcast-player.netlify.app/",
+    "snippet": "<podcast-player data-title='Episode Title' data-thumb='thumbnail.jpg'><a class='show-and-play' href='audio.mp3'>Play</a></podcast-player>"
   }
 ]
